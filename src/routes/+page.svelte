@@ -1,8 +1,8 @@
 <script>
   // x + a = b
   // => x = a - b
-  let a = 0;
-  let b = 0;
+  let a = 6;
+  let b = 9;
   let solution = b - a;
   let isHidden = true;
 
